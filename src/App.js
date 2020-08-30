@@ -1,10 +1,6 @@
 import React, {Component} from 'react';
 import Features from './Components/Features';
 import Summary from "./Components/Summary";
-
-// Normalizes string as a slug - a string that is safe to use
-// in both URLs and html attributes
-
 import './App.css';
 
 // This object will allow us to
